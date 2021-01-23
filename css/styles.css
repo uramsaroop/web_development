@@ -1,3 +1,5 @@
+/* color palette from https://colorhunt.co/palette/213547 */
+
 body {
   background-color: #eeeeee;
 }
@@ -10,9 +12,9 @@ hr {
 }
 
 h1 {
-  color: #686d76
+  color: #686d76;
 }
 
 h3 {
-  color: #686d76
+  color: #686d76;
 }
